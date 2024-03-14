@@ -1,0 +1,19 @@
+{
+  "name": "caglarorhan.github.io",
+  "description": "Personal Home Page",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caglarorhan/caglarorhan.github.io.git"
+  },
+  "author": "CAglar Orhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caglarorhan/caglarorhan.github.io/issues"
+  },
+  "homepage": "https://github.com/caglarorhan/caglarorhan.github.io#readme"
+}
